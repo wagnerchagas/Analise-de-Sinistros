@@ -1,1 +1,7 @@
 
+id,cliente,cidade,tipo_sinistro,valor,fraude
+1,João,São Paulo,Colisão,12000,Sim
+2,Maria,Rio de Janeiro,Roubo,8000,Não
+3,Carlos,Curitiba,Incêndio,25000,Sim
+4,Ana,Florianópolis,Colisão,5000,Não
+5,Pedro,Joinville,Roubo,15000,Sim
